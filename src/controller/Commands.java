@@ -1,0 +1,5 @@
+package controller;
+
+public enum Commands {
+    ADD_RUNNER, CREATE_RUNNER, PROMEDIUMS, SHOW_NEW_RUNNER,ADD_LIST,C_TO_SPANISH, C_TO_ENGLISH, FILE_IN
+}
